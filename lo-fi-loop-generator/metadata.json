@@ -1,0 +1,6 @@
+{
+  "name": "Lo-Fi Loop Generator",
+  "description": "Generate 8-bar lo-fi loops for background music in just three clicks. Uses Gemini API to configure music parameters for a browser-based audio engine.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
