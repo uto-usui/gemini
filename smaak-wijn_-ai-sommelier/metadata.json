@@ -1,0 +1,6 @@
+{
+  "name": "Smaak & Wijn: AI Sommelier",
+  "description": "AIが料理に合うワインを5種提案。ワインタイプでの絞り込みや、食材からの料理提案も可能。特徴とペアリングを日本語解説。アムステルダム風デザイン。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
